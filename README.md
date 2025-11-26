@@ -13,7 +13,7 @@ PortfolioX is a modern, fast, and fully responsive **React portfolio website** d
 - ⚡ **Fast Development Environment using Vite**
 - 🧱 **Reusable & Maintainable Code Structure**
 - 📱 **Optimized for Mobile, Tablet & Desktop**
-- 🌐 **Deployed with Netlify**
+- 🌐 **Deployed with Vercel**
 - 🔄 **Version Control with GitHub**
   
 ---
@@ -24,7 +24,7 @@ PortfolioX is a modern, fast, and fully responsive **React portfolio website** d
 |----------|--------------|
 | **Frontend** | React.js, JavaScript (ES6+), JSX, Vite |
 | **Styling** | CSS, Flexbox, Google Fonts |
-| **Deployment** | Netlify |
+| **Deployment** | Vercel |
 | **Version Control** | GitHub, GitHub Desktop |
 | **AI Tools** | ChatGPT, Leonardo AI |
 | **Code Editor** | Visual Studio Code |
